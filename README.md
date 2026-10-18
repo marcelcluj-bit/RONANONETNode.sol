@@ -36,12 +36,12 @@ cd RONANONETNode.sol
 ```
 
 Step 2: Compile the contracts
-Bash
+```Bash
 npx hardhat compile
 
 ```
 Step 3: Deploy to testnet (e.g., Sepolia / Polygon Amoy)
-Bash
+```Bash
 npx hardhat run scripts/deploy.js --network sepolia
 
 ```
