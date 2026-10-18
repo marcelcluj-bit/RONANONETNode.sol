@@ -45,7 +45,13 @@ Step 3: Deploy to testnet (e.g., Sepolia / Polygon Amoy)
 npx hardhat run scripts/deploy.js --network sepolia
 
 ```
+## ⚠️ Disclaimer & Limitation of Liability
 
+The software, smart contracts (`RONANONETNode.sol`), architectural frameworks, and financial models provided in this repository are distributed **"AS IS"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+1. **No Financial or Investment Advice:** The financial projections, CAPEX/OPEX estimates, and DePIN yield structures outlined in this documentation are for conceptual and informational purposes only. They do not constitute formal financial, legal, or investment advice.
+2. **Smart Contract Risk:** Decentralized networks and smart contracts involve inherent cryptographic and operational risks. Contributors, authors, and maintainers shall in no event be held liable for any direct, indirect, incidental, or consequential damages arising from the deployment, execution, or interaction with the source code or network infrastructure.
+3. **Regulatory Compliance:** Adopters, operators, and third parties utilizing this open-source code are solely responsible for ensuring full compliance with local laws, environmental regulations (such as DNSH standards), and financial compliance frameworks in their respective jurisdictions.
 ###
 ⚖️   License
 
