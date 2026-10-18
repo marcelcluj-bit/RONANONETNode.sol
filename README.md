@@ -9,11 +9,7 @@
 ---
 
 ## 📄 Complete Project Documentation & Budget
-
-The full proposal, financial budget, Gantt charts, team allocation, and SWOT analysis are documented in detail:
-
-👉 **[Read Full Project Specification & Financial Plan (PROJECT_SPECIFICATION.md)](./PROJECT_SPECIFICATION.md)**
-
+👉 **[Download Full Project Specification & Financial Plan (DOCX)](./RO_NANO_NET_Project_Specification_and_Budget.docx)**
 ---
 
 ## 🔬 Core Architecture
