@@ -32,3 +32,22 @@ The project introduces a **Proof-of-Audit** framework where nanostructural analy
 ```bash
 git clone [https://github.com/marcelcluj-bit/RONANONETNode.sol.git](https://github.com/marcelcluj-bit/RONANONETNode.sol.git)
 cd RONANONETNode.sol
+
+```
+
+Step 2: Compile the contracts
+Bash
+npx hardhat compile
+
+```
+Step 3: Deploy to testnet (e.g., Sepolia / Polygon Amoy)
+Bash
+npx hardhat run scripts/deploy.js --network sepolia
+
+```
+
+⚖️ License
+This project is released under the MIT License — free for academic, governmental, and private utilization and deployment.
+
+
+
