@@ -1,2 +1,38 @@
 # RONANONETNode.sol
 Decentralized Physical Infrastructure Network (DePIN) for nanostructural audit. Manages FE-SEM electron microscopy node tokenization, audit records, and automated revenue sharing.
+
+
+# RO-NANO-NET 2026: Open-Source DePIN Architecture for Nanostructural Audit
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.20-blue)](https://soliditylang.org/)
+
+## 📌 Overview
+
+**RO-NANO-NET** is an open-source, decentralized physical infrastructure network (**DePIN**) designed to establish regional nodes for Field Emission Scanning Electron Microscopy (**FE-SEM**) and X-ray Spectrography (**EDS/EBSD**), natively integrated with Artificial Intelligence protocols (Gemini AI & Nano-Banana 2).
+
+The project introduces a **Proof-of-Audit** framework where nanostructural analysis capacity is tokenized, enabling hybrid funding (Public-Private), 24/7 autonomous lab operations, and automated revenue sharing via Smart Contracts.
+
+---
+
+## 🔬 Core Components
+
+1. **Hardware Specification:** FE-SEM core combined with EDS/EBSD detectors and Scroll Dry Pump vacuum systems.
+2. **AI Cortex:** Automated particle sorting, micro-crack detection, and multimodal processing pipelines (image + chemical spectra).
+3. **Smart Contract Engine (`RONANONETNode.sol`):** 
+   - On-chain audit record hashing (sample immutability).
+   - Node-level share tokenization for investors and operators.
+   - Automated dividend distribution derived from commercial audit revenues.
+
+---
+
+## 🚀 Installation & Deployment
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) v18+
+- [Hardhat](https://hardhat.org/) or [Foundry](https://getfoundry.sh/)
+
+### Step 1: Clone the repository
+```bash
+git clone [https://github.com/USERNAME/RO-NANO-NET.git](https://github.com/USERNAME/RO-NANO-NET.git)
+cd RO-NANO-NET
