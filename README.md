@@ -36,7 +36,10 @@ cd RONANONETNode.sol
 
 ---
 
+### Step 2
+npx hardhat compile
 
+---...///
 
 
 
