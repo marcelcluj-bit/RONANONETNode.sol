@@ -34,9 +34,16 @@ The project introduces a **Proof-of-Audit** framework where nanostructural analy
 git clone [https://github.com/marcelcluj-bit/RONANONETNode.sol.git](https://github.com/marcelcluj-bit/RONANONETNode.sol.git)
 cd RONANONETNode.sol
 
+'''
+ Step 2
 npx hardhat compile
 
+'''
+
+atep 3 
 npx hardhat run scripts/deploy.js --network sepolia
+
+'''
 
 
 ⚖️ License
