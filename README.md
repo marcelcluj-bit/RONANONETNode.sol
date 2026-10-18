@@ -113,4 +113,41 @@ This project is released under the MIT License — free for academic, government
 
 ## 📈 SWOT Analysis
 
+---
+
+## 📈 SWOT Analysis
+
+| STRENGTHS (Internal) | WEAKNESSES (Internal) |
+| :--- | :--- |
+| • High engineering expertise & technical foundation<br>• Strategic positioning within EU/NATO R&D frameworks<br>• Native integration of DePIN blockchain & AI models<br>• Transparent, tokenized revenue-sharing mechanism | • High initial CAPEX requirement for FE-SEM hardware<br>• Lack of existing centralized lab networks locally<br>• High ongoing maintenance & cleanroom operational costs<br>• Dependency on highly specialized technical personnel |
+
+| OPPORTUNITIES (External) | THREATS (External) |
+| :--- | :--- |
+| • EU Chips Act, PNRR, and Horizon Europe DeepTech funding<br>• Growing demand for semiconductor quality assurance<br>• Commercial monetization via API-driven scanning requests | • Intense regional competition from Poland and Hungary<br>• Supply chain delays for high-end optical components<br>• Legislative and fiscal shifts in decentralized networks |
+
+---
+
+## 📅 Implementation Roadmap (18-Month Gantt Chart)
+
+| Activity / Milestone | M1-M3 | M4-M6 | M7-M9 | M10-M12 | M13-M18 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Public Procurement & Tendering** | [ XXX ] | | | | |
+| **Cleanroom Setup & Shielding** | | [ XXX ] | | | |
+| **SEM Delivery, Install & Calibration** | | | [ XXX ] | | |
+| **AI Cortex & Smart Contract Testing** | | | | [ XXX ] | |
+| **Commercial Launch & Auditing Ops** | | | | | [ XXXXXX ] |
+
+---
+
+## ⚙️ Workflows & Revenue Sustainability
+
+1. **Commercial Auditing:** High-resolution quality assurance for automotive, aerospace, defense, and semiconductor industries (€150–€300 / operational hour).
+2. **Reverse Engineering & Import Substitution:** Chemical and structural analysis enabling domestic manufacturing of imported micro-components.
+3. **Smart Contract Dividend Payouts:** Yield generated from private audits is autonomously split and distributed to node token holders via `RONANONETNode.sol`.
+
+---
+
+## ⚖️ License
+
+This project is released under the **MIT License** — free for academic, governmental, and commercial deployment and utilization.
 
