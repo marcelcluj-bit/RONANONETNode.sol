@@ -157,3 +157,8 @@ This project is released under the MIT License — free for academic, government
 
 This project is released under the **MIT License** — free for academic, governmental, and commercial deployment and utilization.
 
+```Bash
+pip install web3 eth-account
+
+```
+
