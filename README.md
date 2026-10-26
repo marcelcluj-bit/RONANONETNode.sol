@@ -157,6 +157,12 @@ This project is released under the MIT License — free for academic, government
 
 This project is released under the **MIT License** — free for academic, governmental, and commercial deployment and utilization.
 
+
+## 📦 Cerințe de instalare Python
+Pentru a rula scriptul, instalează bibliotecile necesare prin pip:
+
+Bash
+
 ```Bash
 pip install web3 eth-account
 
